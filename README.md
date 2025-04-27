@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./assets/images/image.webp" />
+<img src="./screenshot.png" />
 </p>
 
 # 🧊 Cube 3D Animé en CSS
@@ -45,6 +45,15 @@ Ce projet utilise les préfixes `-webkit-` pour garantir la compatibilité avec 
 ## 📄 Licence
 
 Ce projet est distribué sous la licence **MIT**. Tu peux l’utiliser, le modifier et le partager librement.
+
+---
+
+## 📫 Contact
+
+Pour toute question, suggestion ou autre, vous pouvez me contacter via les moyens suivants :
+
+- **Email**: [elmahdi.korfed@gmail.com](mailto:elmahdi.korfed@gmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/elmahdikorfed/](https://www.linkedin.com/in/elmahdikorfed/)
 
 ---
 
